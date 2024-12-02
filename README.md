@@ -1,4 +1,4 @@
-# DataFlex-Converter
+# UniversalDataConverter
 
 A versatile toolkit for seamless conversion between different data formats (CSV, JSON, XML, Excel) to facilitate data migration, integration, and standardization.
 
@@ -42,4 +42,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by the DataFlex-Converter Team
+Made with ❤️ by NeuralBloom
