@@ -1,0 +1,19 @@
+# examples/sample.json
+{
+    "employees": [
+        {
+            "name": "John Doe",
+            "age": 30,
+            "city": "New York",
+            "role": "Developer",
+            "skills": ["Python", "JavaScript", "SQL"]
+        },
+        {
+            "name": "Jane Smith",
+            "age": 25,
+            "city": "Los Angeles",
+            "role": "Designer",
+            "skills": ["Photoshop", "Illustrator"]
+        }
+    ]
+}
