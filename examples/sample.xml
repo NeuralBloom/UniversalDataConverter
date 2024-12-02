@@ -1,0 +1,25 @@
+# examples/sample.xml
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee>
+        <name>John Doe</name>
+        <age>30</age>
+        <city>New York</city>
+        <role>Developer</role>
+        <skills>
+            <skill>Python</skill>
+            <skill>JavaScript</skill>
+            <skill>SQL</skill>
+        </skills>
+    </employee>
+    <employee>
+        <name>Jane Smith</name>
+        <age>25</age>
+        <city>Los Angeles</city>
+        <role>Designer</role>
+        <skills>
+            <skill>Photoshop</skill>
+            <skill>Illustrator</skill>
+        </skills>
+    </employee>
+</employees>
